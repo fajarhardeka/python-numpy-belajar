@@ -1,0 +1,2 @@
+source belajar/bin/activate (default)
+silahkan disesuaikan dengan kondisi installan environment anda
