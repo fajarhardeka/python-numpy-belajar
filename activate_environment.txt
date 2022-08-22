@@ -1,2 +1,2 @@
-source belajar/bin/activate (default)
+source belajar/bin/activate (ini posisi milik saya)
 silahkan disesuaikan dengan kondisi installan environment anda
