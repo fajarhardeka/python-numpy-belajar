@@ -11,3 +11,5 @@ b = b + [1]
 
 print(a)
 print(b)
+
+# perintah di atas untuk mencoba installan numpy
