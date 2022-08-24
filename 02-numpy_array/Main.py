@@ -26,6 +26,6 @@ j = np.diag ([11,12,13,14,15,16]) # membuat matrik angka secara diagonal menggun
 
 
 # display / menampilkan output kode
-print(j)
+print(f)
     
  

@@ -25,10 +25,10 @@ hasil = anp / bnp #membagi komponen di dalam array
 hasil = anp * bnp #mengkalikan komponen di dalam array
 
 # EKSPONEN
-hasil = anp ** bnp #perpangkatan komponen di dalam array
+hasil = anp ** bnp # mempangkatan komponen di dalam array
 
 # MODULUS
-hasil = anp % bnp # komponen di dalam array
+hasil = anp % bnp # hasil dari pembagian komponen di dalam array
 
 # display hasil
 print (hasil)

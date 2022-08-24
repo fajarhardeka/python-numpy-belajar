@@ -1,2 +1,4 @@
 source belajar/bin/activate (ini posisi milik saya)
-silahkan disesuaikan dengan kondisi installan environment anda
+silahkan disesuaikan dengan kondisi installan environment python anda
+
+jika mengalami kesulitan bisa tanya ke saya ataupun kunjungi link berikut  >>>  <<<
